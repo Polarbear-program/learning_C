@@ -1,5 +1,7 @@
 /*Identifiers are the names to identify variables, functions, operators, 
 objects, structs, any objects that defined by C.*/ 
+/* Keywords are defined the structure and syntax of C,
+which cannot be used as names */
 #include <stdio.h>
 
 
