@@ -18,5 +18,14 @@ int main()
     printf("%f\n", width);
     printf("%f\n", weight);
     printf("%f\n", height);
+
+    // Decimal precision, to remove the extra zeros, you can use a dot(.)
+    // followed by a number that specifies how many digits that shown
+    
+    printf("\n","__________________");
+    printf("%.f\n", weight); // No digit shown
+    printf("%f\n", weight); // Default setting will show 6 digits
+    printf("%.1f\n", weight); // Only show 1 digit
+    printf("%.2f\n", weight); // Only show 2 digits
     return 0;
 }
