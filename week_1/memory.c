@@ -16,10 +16,14 @@ int main()
     // Using "%zu" format specifier will print out the memory size of variable
     // Using the sizeof() operator to get the size(bytes) of data type of variable
 
-    printf("Memory of integer: %zu\n", sizeof(integer)); // Size of memory taken by interger: 4
-    printf("Memory of floating-point: %zu\n", sizeof(float_number)); // Size of memory taken by float-point: 4
-    printf("Memory of double: %zu\n", sizeof(longer_float)); // Size of memory taken by double: 8
-    printf("Memory of character:%zu\n", sizeof(character)); // Size of memory taken by character: 1
+    // Size of memory taken by interger: 4
+    printf("Memory of integer: %zu\n", sizeof(integer));
+    // Size of memory taken by float-point: 4     
+    printf("Memory of floating-point: %zu\n", sizeof(float_number));
+    // Size of memory taken by double: 8 
+    printf("Memory of double: %zu\n", sizeof(longer_float));
+    // Size of memory taken by character: 1 
+    printf("Memory of character:%zu\n", sizeof(character)); 
 
     return 0;
 }
