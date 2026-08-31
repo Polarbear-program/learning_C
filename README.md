@@ -7,4 +7,5 @@ I will update this later
 I've been waking up for 23 hours now, and I'm still trying to figure out why recall an assigned variable needs %d, %.1f, %c. It so odd, yet so addictive, I fucking love-hate C language, argghhhhh. 
 
 >> August 31st, 2026
-It almost the end of August now. I feel pretty sloppy today, so instead of solving more problems on Python, I've decided to come here, and learn some more about C: Data types
+It almost the end of August now. I feel pretty sloppy today, so instead of solving more problems on Python, I've decided to come here, and learn some more about C: Data types, characters
+    -> Characters of C can be assign with character itself or ASCII value to display character 

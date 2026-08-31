@@ -17,4 +17,6 @@ int main()
     printf("%d\n", items);
     printf("%f\n", grade);
     printf("%c\n", letterCode);
+
+    return 0;
 }
