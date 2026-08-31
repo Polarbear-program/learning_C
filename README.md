@@ -8,4 +8,4 @@ I've been waking up for 23 hours now, and I'm still trying to figure out why rec
 
 >> August 31st, 2026
 It almost the end of August now. I feel pretty sloppy today, so instead of solving more problems on Python, I've decided to come here, and learn some more about C: Data types, characters
-    -> Characters of C can be assign with character itself or ASCII value to display character 
+    -> Characters of C can be assign with character itself or ASCII value to display character. If I want to print more than 1 character, I will have to use the string.
