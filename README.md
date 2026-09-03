@@ -1,7 +1,7 @@
 # LEARN:PYTHON 
 
 
-So, we're back again on the journey of learning how to code
+### So, we're back again on the journey of learning how to code
 And now this time I'll learn the mother of all modern languages, C
 ================================
 I will update this later
