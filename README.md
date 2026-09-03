@@ -13,5 +13,5 @@ I will update this later
 > It's almost the end of August now. I feel pretty sloppy today, so instead of solving more problems in Python, I've decided to come here and learn some more about C: Data types, characters, numbers
   >>  -> Characters of C can be assigned with the character itself or the ASCII value to display the character. If I want to print more than 1 character, I will have to use a string.
 
-> >>  -> Using scientific notation when assigning large or very small values
+  >>  -> Using scientific notation when assigning large or very small values
 > Knowing the memory of data types can help you write a big program or work in a limited memory, because it can affect both "Performance" and "Efficiency"
