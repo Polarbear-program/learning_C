@@ -5,7 +5,7 @@
       int main(void)
       {
         love = 3000;
-        printf("I love you %d");
+        printf("I love you %d, love");
 
         return 0;
       }
