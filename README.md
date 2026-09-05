@@ -1,5 +1,14 @@
-# LEARN:PYTHON 
+# LEARN:C 
+>
+      #include <stdio.h>
 
+      int main(void)
+      {
+        love = 3000;
+        printf("I love you %d");
+
+        return 0;
+      }
 
  > So, we're back again on the journey of learning how to code
  > And now this time I'll learn the mother of all modern languages, C
